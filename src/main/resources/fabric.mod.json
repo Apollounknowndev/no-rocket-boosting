@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "no-rocket-boosting",
+	"version": "${version}",
+	"name": "No Rocket Boosting",
+	"description": "No more elytra rocket boosting! :)",
+	"authors": [
+		"Apollo"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/no-rocket-boosting/icon.png",
+	"environment": "*",
+	"entrypoints": {},
+	"mixins": [
+		"no-rocket-boosting.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*"
+	}
+}

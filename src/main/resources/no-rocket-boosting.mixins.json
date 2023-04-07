@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "apollo.no.rocket.boosting.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"FireworkRocketItemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
